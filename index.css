@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+table{
+    background-color: black;
+}
+tr
+{
+    background-color:rgb(196, 189, 189);
+}
+button{
+    background-color: rgb(163, 154, 154);color: crimson;
+}
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#faixa{
+    background-color:crimson;
+    padding: 20px;
+    border-radius: 10px;
+}
+#video{
+    padding-left: 35%;
+}
+#imagem{
+    padding-left: 20%;
+}
